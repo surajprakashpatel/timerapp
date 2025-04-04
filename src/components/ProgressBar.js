@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react';git 
 import { View } from 'react-native';
 
 const ProgressBar = ({ progress }) => {
@@ -12,7 +12,7 @@ const ProgressBar = ({ progress }) => {
         overflow: 'hidden',
         marginVertical: 5,
       }}
-    >
+    > 
       <View 
         style={{
           height: '100%',
